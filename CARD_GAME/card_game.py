@@ -104,5 +104,5 @@ def play_game():
                 tied = tied + ", "
         print(f"It's a tie between players {tied}, each with {highest_score} round(s) won!")
 
-if __name__ == "__main__":
-    play_game()
+
+play_game()
